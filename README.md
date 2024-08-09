@@ -1,4 +1,4 @@
 # Naive-Bayes
 
-## Equipe: Celio Rocha, Fernando dos Santos e João Vitos
+## Equipe: Celio Rocha, Fernando dos Santos e João Vitor
 ## projeto aprendizado de maquina
